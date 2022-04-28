@@ -1,1 +1,9 @@
 rbarrero-baaponter
+
+FUNCIONAMIENTO:
+
+1. Ejecutar el programa crearEstructuras para generar las estrucutras inciales.
+
+2. Ejecutar el programa buscarTiempo que se encarga de la busqueda de la información.
+
+3. Ejecutar el programa p1-odProgram que se encarga de la interfaz grafica.
